@@ -1,6 +1,6 @@
 # Disclaimer
 
-I'm not Resposible for the action that you made.
+I'm not Responsible for the action that you made.
 this is purely for  educational purpose only, 
       **play with your own risk.**
 
