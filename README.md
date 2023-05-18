@@ -31,5 +31,5 @@ In Future this will be upgraded.
 
 # credits 
 
-Thaks for teching fernet module @NetworkChuck on youtube.
+Thanks @NetworkChuck on youtube.
 
